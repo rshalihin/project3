@@ -1,5 +1,5 @@
 # Live testFor live testing
-<a href="https://react-gpt3-landing-page-seven.vercel.app/">Click Here</a>
+<a href="https://react-gpt3-landing-page-seven.vercel.app/">Demo link</a>
 
 # Getting Started with Create React App
 
