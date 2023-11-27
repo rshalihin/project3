@@ -1,4 +1,4 @@
-# Live testFor live testing
+# For Live Testing
 <a href="https://react-gpt3-landing-page-seven.vercel.app/">Demo link</a>
 
 # Getting Started with Create React App
